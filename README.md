@@ -15,7 +15,7 @@
 - [حساب گیت هاب من](https://github.com/amirzamiryesfahan)
 - [PNU_3991_AR](https://github.com/amirzamiryesfahan/PNU_3991_AR)
 - [فرم رزومه و سوابق کاری من](https://fatemehsatari.github.io/ostadrazavi/) 
-- [فرم انگیزه نامه من](https://github.com/fatemehsatari/pnu_3991AR/blob/main/baraymysop.pdf)
+- [فرم انگیزه نامه من](https://github.com/amirzamiryesfahan/PNU_3991_AR/blob/main/sop.pdf)
 - [مدرک جاوا اسکریپ من](https://www.sololearn.com/Certificate/1024-20830670/pdf/)
 ------------------
 استاد من با کمک سرگروه تونستم دستورات گیت رو یاد بگیرم. چون شاخه این اسمم داخل ریپازیتوری من نیست با گیت هاب سرگروه آقای بصیری شاخه اسمم رو اضافه کردم.⚠
