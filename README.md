@@ -12,7 +12,7 @@
 # پروژه و کارهای کلاسی درس روش پژوهش💼📐📏
 
 ## کارهای میان ترم✏
-- [حساب گیت هاب من](https://github.com/fatemehsatari)
+- [حساب گیت هاب من](https://github.com/amirzamiryesfahan)
 - [PNU_3991_AR](https://github.com/amirzamiryesfahan/PNU_3991_AR)
 - [فرم رزومه و سوابق کاری من](https://fatemehsatari.github.io/ostadrazavi/) 
 - [فرم انگیزه نامه من](https://github.com/fatemehsatari/pnu_3991AR/blob/main/baraymysop.pdf)
