@@ -14,7 +14,7 @@
 ## کارهای میان ترم✏
 - [حساب گیت هاب من](https://github.com/amirzamiryesfahan)
 - [PNU_3991_AR](https://github.com/amirzamiryesfahan/PNU_3991_AR)
-- [فرم رزومه و سوابق کاری من](https://fatemehsatari.github.io/ostadrazavi/) 
+- [فرم رزومه و سوابق کاری من](https://github.com/amirzamiryesfahan/PNU_3991_AR/blob/main/resume.pdf) 
 - [فرم انگیزه نامه من](https://github.com/amirzamiryesfahan/PNU_3991_AR/blob/main/sop.pdf)
 - [مدرک جاوا اسکریپ من](https://www.sololearn.com/Certificate/1024-20830670/pdf/)
 ------------------
